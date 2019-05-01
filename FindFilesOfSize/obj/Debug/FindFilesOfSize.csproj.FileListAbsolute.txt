@@ -1,0 +1,7 @@
+C:\Users\epicn\source\repos\FindFilesOfSize\FindFilesOfSize\bin\Debug\FindFilesOfSize.exe.config
+C:\Users\epicn\source\repos\FindFilesOfSize\FindFilesOfSize\bin\Debug\FindFilesOfSize.exe
+C:\Users\epicn\source\repos\FindFilesOfSize\FindFilesOfSize\bin\Debug\FindFilesOfSize.pdb
+C:\Users\epicn\source\repos\FindFilesOfSize\FindFilesOfSize\obj\Debug\FindFilesOfSize.csprojAssemblyReference.cache
+C:\Users\epicn\source\repos\FindFilesOfSize\FindFilesOfSize\obj\Debug\FindFilesOfSize.csproj.CoreCompileInputs.cache
+C:\Users\epicn\source\repos\FindFilesOfSize\FindFilesOfSize\obj\Debug\FindFilesOfSize.exe
+C:\Users\epicn\source\repos\FindFilesOfSize\FindFilesOfSize\obj\Debug\FindFilesOfSize.pdb
